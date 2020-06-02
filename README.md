@@ -51,8 +51,7 @@
 
 ### BATCH_SIZE = 8   lr = 0.000000000001
 
-![.](https://github.com/VictoriaIL/SMOMI3/blob/master/3%D1%8D%D1%82%D0%B0%D0%BF/A_train_2.PNG)![.](https://github.com/VictoriaIL/SMOMI3/blob/master/3%D1%8D%D1%82%D0%B0%D0%BF/A_val_2.PNG)
-![.](https://github.com/VictoriaIL/SMOMI3/blob/master/3%D1%8D%D1%82%D0%B0%D0%BF/L_train_2.PNG)![.](https://github.com/VictoriaIL/SMOMI3/blob/master/3%D1%8D%D1%82%D0%B0%D0%BF/L_val_2.PNG)
+![.](https://github.com/VictoriaIL/SMOMI3/blob/master/3%D1%8D%D1%82%D0%B0%D0%BF/A_train_2.PNG)![.](https://github.com/VictoriaIL/SMOMI3/blob/master/3%D1%8D%D1%82%D0%B0%D0%BF/A_val_2.PNG)![.](https://github.com/VictoriaIL/SMOMI3/blob/master/3%D1%8D%D1%82%D0%B0%D0%BF/L_train_2.PNG)![.](https://github.com/VictoriaIL/SMOMI3/blob/master/3%D1%8D%D1%82%D0%B0%D0%BF/L_val_2.PNG)
 
 ### BATCH_SIZE = 8   lr = 0.00000000001
 ![.](https://github.com/VictoriaIL/SMOMI3/blob/master/3%D1%8D%D1%82%D0%B0%D0%BF/A_train_1.PNG)![.](https://github.com/VictoriaIL/SMOMI3/blob/master/3%D1%8D%D1%82%D0%B0%D0%BF/A_val_1.PNG)
