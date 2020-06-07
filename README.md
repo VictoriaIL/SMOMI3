@@ -30,10 +30,6 @@
 ![.](https://github.com/VictoriaIL/SMOMI3/blob/master/2%D1%8D%D1%82%D0%B0%D0%BF/A_train_1.PNG)![.](https://github.com/VictoriaIL/SMOMI3/blob/master/2%D1%8D%D1%82%D0%B0%D0%BF/A_val_1.PNG)
 ![.](https://github.com/VictoriaIL/SMOMI3/blob/master/2%D1%8D%D1%82%D0%B0%D0%BF/L_train_1.PNG)![.](https://github.com/VictoriaIL/SMOMI3/blob/master/2%D1%8D%D1%82%D0%B0%D0%BF/L_val_1.PNG)
 
-### BATCH_SIZE = 8   lr = 0.00008
-
-![.](https://github.com/VictoriaIL/SMOMI3/blob/master/2%D1%8D%D1%82%D0%B0%D0%BF/A_train_2.PNG)![.](https://github.com/VictoriaIL/SMOMI3/blob/master/2%D1%8D%D1%82%D0%B0%D0%BF/A_val_2.PNG)
-![.](https://github.com/VictoriaIL/SMOMI3/blob/master/2%D1%8D%D1%82%D0%B0%D0%BF/L_train_2.PNG)![.](https://github.com/VictoriaIL/SMOMI3/blob/master/2%D1%8D%D1%82%D0%B0%D0%BF/L_val_2.PNG)
 
 ### BATCH_SIZE = 8   lr = 0.000001
 
