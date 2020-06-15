@@ -18,11 +18,6 @@
 ![.](https://github.com/VictoriaIL/SMOMI3/blob/master/1%D1%8D%D1%82%D0%B0%D0%BF/A_train__3.png)![.](https://github.com/VictoriaIL/SMOMI3/blob/master/1%D1%8D%D1%82%D0%B0%D0%BF/A_val__3.png)
 ![.](https://github.com/VictoriaIL/SMOMI3/blob/master/1%D1%8D%D1%82%D0%B0%D0%BF/L_train__3.png)![.](https://github.com/VictoriaIL/SMOMI3/blob/master/1%D1%8D%D1%82%D0%B0%D0%BF/L_val__3.png)
 
- ### BATCH_SIZE = 8  lr = 0.00000001
- 
-![.](https://github.com/VictoriaIL/SMOMI3/blob/master/1%D1%8D%D1%82%D0%B0%D0%BF/A_train_2.png)![.](https://github.com/VictoriaIL/SMOMI3/blob/master/1%D1%8D%D1%82%D0%B0%D0%BF/A_val_2.png)
-![.](https://github.com/VictoriaIL/SMOMI3/blob/master/1%D1%8D%D1%82%D0%B0%D0%BF/L_train_2.png)![.](https://github.com/VictoriaIL/SMOMI3/blob/master/1%D1%8D%D1%82%D0%B0%D0%BF/L_val_2.png)
-
 
 На втором этапе мы использована предобученную на imagenet сеть VGG16. В сети были заморожены сверточные слои и проводилось обучение классификатора.
 
@@ -41,6 +36,12 @@
 
 ![.](https://github.com/VictoriaIL/SMOMI3/blob/master/2%D1%8D%D1%82%D0%B0%D0%BF/A_train_4.PNG)![.](https://github.com/VictoriaIL/SMOMI3/blob/master/2%D1%8D%D1%82%D0%B0%D0%BF/A_val_4.PNG)
 ![.](https://github.com/VictoriaIL/SMOMI3/blob/master/2%D1%8D%D1%82%D0%B0%D0%BF/L_train_4.PNG)![.](https://github.com/VictoriaIL/SMOMI3/blob/master/2%D1%8D%D1%82%D0%B0%D0%BF/L_val_4.PNG)
+
+ ### BATCH_SIZE = 8  lr = 0.00000001
+ 
+![.](https://github.com/VictoriaIL/SMOMI3/blob/master/1%D1%8D%D1%82%D0%B0%D0%BF/A_train_2.PNG)![.](https://github.com/VictoriaIL/SMOMI3/blob/master/1%D1%8D%D1%82%D0%B0%D0%BF/A_val_2.PNG)
+![.](https://github.com/VictoriaIL/SMOMI3/blob/master/1%D1%8D%D1%82%D0%B0%D0%BF/L_train_2.PNG)![.](https://github.com/VictoriaIL/SMOMI3/blob/master/1%D1%8D%D1%82%D0%B0%D0%BF/L_val_2.PNG)
+
 
 
 На третьем этапе мы обучали сеть уже с размороженными свёрточными слоями и использовали весовые коэффициенты из предыдущей попытки.
